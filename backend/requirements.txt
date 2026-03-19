@@ -2,3 +2,4 @@ fastapi
 uvicorn
 requests 
 youtube-transcript-api
+python-dotenv
